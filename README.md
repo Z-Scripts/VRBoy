@@ -10,7 +10,6 @@ VR Boy is my very first 2D game created using the Godot game engine. I completed
 - Simple player controls
 - Collectible items
 
-2. Open the project in Godot and run the game.
 
 ## Contact
 
